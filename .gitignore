@@ -1,0 +1,6 @@
+*.class
+*.jar
+*.txt
+res
+iter*
+target
