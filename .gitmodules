@@ -1,0 +1,3 @@
+[submodule "SparkTasks/TriangleCounting"]
+	path = SparkTasks/TriangleCounting
+	url = git@github.com:hakureiR-eimu/TriangleCounting.git
